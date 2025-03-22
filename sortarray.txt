@@ -1,0 +1,12 @@
+Bubblesort Time: 47958 nanoseconds.
+
+10
+45
+67
+
+Mergesort Time: 69250 nanoseconds.
+
+10
+45
+67
+
